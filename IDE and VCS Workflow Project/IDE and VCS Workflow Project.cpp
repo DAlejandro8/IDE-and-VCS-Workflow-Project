@@ -7,7 +7,7 @@ int main() {
     char first, middle, last;
     // Store your initials in these variables
     first = 'H';
-    middle = 'G';
+    middle = 'U';
     last = 'M';
     cout << first << middle << last << endl;
     return 0;
